@@ -1,6 +1,6 @@
 # GitHub実践入門 ~Pull Requestによる開発の変革 (WEB+DB PRESS plus)
 
-特設サイトはこちら
+特設サイトはこちらtest
 
   [http://github-book.github.io/first-pr/](http://github-book.github.io/first-pr/)
 
